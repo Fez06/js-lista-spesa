@@ -10,3 +10,6 @@ RISOLUZIONE:
             -Torno su js e assegno una const all'ul in modo da poterla utilizzare;
             -Creo su js una variabile lista e gli dico di appenderla all'interno della ul.
             -Inserisco nel ciclo while la creazione dell'elemento lista e il suo append.
+
+ANNOTAZIONI POST ESERCIZIO:
+            -Durante la stesura del readme avevo dimenticato che bisognava sia appendere il valore i al singolo li che appendere il li alla ul!           
